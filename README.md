@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">
-    Oi Tudo bom? Eu sou o 
+    Eu sou o 
     <a href="https://www.linkedin.com/in/wallace-santos-06a5091a1/">Wallace Santos </a>
   </h1>
   
