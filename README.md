@@ -1,11 +1,5 @@
 ## Perfil do GitHub
 
-<div>
-  <h1 align="center">
-    Eu sou o 
-    <a href="https://www.linkedin.com/in/wallace-santos-06a5091a1/">Wallace Santos </a>
-  </h1>
-
 ## Tecnologias que eu uso nos meus estudos 
 
 <div align="center" style="display: inline_block">
