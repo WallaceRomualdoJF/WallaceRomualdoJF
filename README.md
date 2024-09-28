@@ -5,10 +5,6 @@
     Eu sou o 
     <a href="https://www.linkedin.com/in/wallace-santos-06a5091a1/">Wallace Santos </a>
   </h1>
-  
-  <p align="center">
-    "O aprendizado é um processo contínuo que dura a vida toda." - Mahatma Gandhi 
-  </p>
 
 ## Tecnologias que eu uso nos meus estudos 
 
