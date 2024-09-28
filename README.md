@@ -1,5 +1,3 @@
-## Perfil do GitHub
-
 ## Tecnologias que eu uso nos meus estudos 
 
 <div align="center" style="display: inline_block">
