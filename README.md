@@ -1,5 +1,3 @@
-# 👨‍💻 Wallace Romualdo
-
 ## 🚀 Sobre mim
 Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em construir soluções eficientes e escaláveis. Tenho experiência com desenvolvimento web e estou constantemente evoluindo minhas habilidades em back-end, front-end e banco de dados.
 
