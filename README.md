@@ -75,17 +75,3 @@ Busco constantemente aprimorar minhas habilidades em boas práticas de desenvolv
 </div>
 
 ---
-
-## ⚡ Diferenciais
-
-- ✔️ Desenvolvimento Web (Front-end e Back-end)  
-- ✔️ Conhecimento em SQL e banco de dados  
-- ✔️ Lógica de programação e resolução de problemas  
-- ✔️ Facilidade de aprendizado  
-- ✔️ Trabalho em equipe e boa comunicação  
-
----
-
-## 🎯 Objetivo
-
-Busco uma oportunidade na área de tecnologia onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir com soluções que gerem valor para o negócio.
