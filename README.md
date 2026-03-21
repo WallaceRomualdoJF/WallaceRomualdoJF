@@ -3,8 +3,6 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e orientado à con
 
 Atualmente, direciono minha evolução profissional para a área de dados, com foco em análise, modelagem e geração de insights estratégicos. Tenho como objetivo dar continuidade à minha formação acadêmica por meio de uma pós-graduação em Análise de Dados, seguida de um mestrado e doutorado em Ciência de Dados, consolidando uma carreira sólida voltada à tomada de decisão baseada em dados e inovação tecnológica.
 
-Busco constantemente aprimorar minhas habilidades em boas práticas de desenvolvimento, performance e resolução de problemas, alinhando conhecimentos técnicos com visão analítica e estratégica.
-
 ---
 
 ## 🧠 Tecnologias que estou utilizando
