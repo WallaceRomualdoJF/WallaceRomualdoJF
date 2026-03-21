@@ -1,7 +1,9 @@
 ## 🚀 Sobre mim
-Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em construir soluções eficientes e escaláveis. Tenho experiência com desenvolvimento web e estou constantemente evoluindo minhas habilidades em back-end, front-end e banco de dados.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e orientado à construção de soluções eficientes, escaláveis e orientadas por dados. Possuo experiência em desenvolvimento web, atuando tanto no front-end quanto no back-end, além de conhecimentos em banco de dados e lógica de programação.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sistemas, com foco em boas práticas, performance e resolução de problemas.
+Atualmente, direciono minha evolução profissional para a área de dados, com foco em análise, modelagem e geração de insights estratégicos. Tenho como objetivo dar continuidade à minha formação acadêmica por meio de uma pós-graduação em Análise de Dados, seguida de um mestrado e doutorado em Ciência de Dados, consolidando uma carreira sólida voltada à tomada de decisão baseada em dados e inovação tecnológica.
+
+Busco constantemente aprimorar minhas habilidades em boas práticas de desenvolvimento, performance e resolução de problemas, alinhando conhecimentos técnicos com visão analítica e estratégica.
 
 ---
 
