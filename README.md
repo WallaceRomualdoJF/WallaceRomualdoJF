@@ -1,6 +1,7 @@
 # Eu sou Wallace Santos!
 
 💻 Desenvolvedor em formação em tecnologia, dados e construção de soluções.
+
 📊 Focado em Análise de Dados e evolução para Ciência de Dados.
 
 Em constante crescimento: Pós-graduação → Mestrado → Doutorado
