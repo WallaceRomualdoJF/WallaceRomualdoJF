@@ -40,8 +40,6 @@ Tenho experiência com desenvolvimento web e banco de dados, e estou aprofundand
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WallaceRomualdoJF\&show_icons=true\&theme=tokyonight\&hide_border=true\&locale=pt-br)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRomualdoJF\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
