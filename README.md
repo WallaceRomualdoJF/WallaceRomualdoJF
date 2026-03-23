@@ -4,7 +4,7 @@
 
 📊 Focado em Análise de Dados e evolução para Ciência de Dados.
 
-Em constante crescimento: Pós-graduação → Mestrado → Doutorado
+Em constante crescimento: Graduação → Pós-graduação → Mestrado → Doutorado
 
 ---
 
