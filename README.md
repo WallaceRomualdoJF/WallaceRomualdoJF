@@ -1,4 +1,4 @@
-# Eu sou Wallace Romualdo!
+# Eu sou Wallace Santos!
 
 💻 Desenvolvedor em formação em tecnologia, dados e construção de soluções.
 📊 Focado em Análise de Dados e evolução para Ciência de Dados.
