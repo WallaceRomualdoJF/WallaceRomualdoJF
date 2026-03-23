@@ -1,11 +1,12 @@
 
-💻 Desenvolvedor em formação apaixonado por tecnologia, dados e construção de soluções eficientes
-📊 Focado em Análise de Dados e evolução para Ciência de Dados
-🚀 Em constante crescimento: Pós-graduação → Mestrado → Doutorado
+💻 Desenvolvedor em formação em tecnologia, dados e construção de soluções.
+📊 Focado em Análise de Dados e evolução para Ciência de Dados.
+
+Em constante crescimento: Pós-graduação → Mestrado → Doutorado
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Atualmente, estou desenvolvendo minha carreira na área de tecnologia com foco em **desenvolvimento de sistemas e análise de dados**, buscando sempre unir lógica, performance e resolução de problemas reais.
 
@@ -13,27 +14,27 @@ Tenho experiência com desenvolvimento web e banco de dados, e estou aprofundand
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 📊 Dados
+### Dados
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 
-### ⚙️ Ferramentas
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -45,7 +46,7 @@ Tenho experiência com desenvolvimento web e banco de dados, e estou aprofundand
 
 ---
 
-## 🔥 Atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
 
@@ -55,9 +56,9 @@ Tenho experiência com desenvolvimento web e banco de dados, e estou aprofundand
 
 ---
 
-## 📊 Projetos em Destaque
+## Projetos em Destaque
 
-🚧 Em constante evolução — aqui você encontrará projetos focados em:
+Em constante evolução. Aqui você encontrará projetos focados em:
 
 * 📈 Análise de dados com Python e SQL
 * 🧾 Desenvolvimento de sistemas web
@@ -66,7 +67,7 @@ Tenho experiência com desenvolvimento web e banco de dados, e estou aprofundand
 
 ---
 
-## 🎯 Objetivo de Carreira
+## Objetivo de Carreira
 
 Construir uma trajetória sólida na área de tecnologia, evoluindo de:
 
@@ -75,21 +76,3 @@ Construir uma trajetória sólida na área de tecnologia, evoluindo de:
 ➡️ Especialista com formação avançada (Mestrado e Doutorado)
 
 ---
-
-## 📫 Contato
-
-📧 Email: (seu email aqui)
-💼 LinkedIn: (seu linkedin aqui)
-
----
-
-## ⚡ Diferenciais
-
-✔️ Mentalidade de crescimento contínuo
-✔️ Foco em evolução acadêmica e profissional
-✔️ Compromisso com boas práticas e qualidade
-✔️ Organização e disciplina nos estudos
-
----
-
-⭐ Obrigado por visitar meu perfil!
