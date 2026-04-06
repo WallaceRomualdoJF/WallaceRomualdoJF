@@ -29,10 +29,6 @@ Atualmente, estou focado na construção de sistemas web e no aprofundamento em 
 🛠️ Ferramentas:
 - Git | GitHub
 
----
-
-## 🧠 Tecnologias que estou utilizando
-
 <div align="center" style="display: inline_block">
   
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,6 +41,8 @@ Atualmente, estou focado na construção de sistemas web e no aprofundamento em 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
   
 </div>
+
+---
 
 ## Estatísticas
 
