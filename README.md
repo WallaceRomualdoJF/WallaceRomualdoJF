@@ -44,11 +44,15 @@ Atualmente, estou focado na construção de sistemas web e no aprofundamento em 
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WallaceRomualdoJF&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRomualdoJF&layout=compact&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceRomualdoJF&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRomualdoJF&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
