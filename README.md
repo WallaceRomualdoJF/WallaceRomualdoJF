@@ -1,14 +1,14 @@
 
 # Eu sou o Wallace Santos
 
-💻 Desenvolvedor focado em sistemas e dados  
+💻 Focado em sistemas e dados  
 📊 Em evolução para Análise e Ciência de Dados
 
 ---
 
 ## Sobre mim
 
-Sou um desenvolvedor em formação,
+Sou um desenvolvedor em Dados,
 
 Atualmente, estou focado na construção de sistemas web e no aprofundamento em banco de dados, enquanto direciono minha carreira para a área de Dados, com foco em Análise e Ciência de Dados.
 
@@ -46,6 +46,6 @@ Atualmente, estou focado na construção de sistemas web e no aprofundamento em 
 
 ## Objetivo de Carreira
 
-Atuar com desenvolvimento de software e evoluir para a área de Dados, contribuindo com soluções que unam engenharia e análise para gerar valor real através da tecnologia.
+Desenvolvimento de software e evoluir para a área de Dados, contribuindo com soluções que unam engenharia e análise para gerar valor real através da tecnologia.
 
 ---
