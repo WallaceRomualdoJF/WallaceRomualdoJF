@@ -1,14 +1,12 @@
 
 # Eu sou o Wallace Santos
 
-💻 Focado em sistemas e dados  
-📊 Em evolução para Análise e Ciência de Dados
-
----
-
 ## Sobre mim
 
-Atualmente, estou focado na construção de sistemas web e no aprofundamento em banco de dados, enquanto direciono minha carreira para a área de Dados, com foco em Análise e Ciência de Dados.
+Atualmente, estou na construção de sistemas web e no aprofundamento em banco de dados, enquanto direciono para a área de Dados, com foco em Análise e Ciência de Dados.
+
+💻 Focado em sistemas e dados  
+📊 Em evolução para Análise e Ciência de Dados
 
 ---
 
