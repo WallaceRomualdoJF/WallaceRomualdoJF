@@ -36,6 +36,6 @@ Atualmente, estou na construção de sistemas web e no aprofundamento em banco d
 → Exploração de dados reais com Python e visualizações  
 
 🔹 API Backend  
-→ Desenvolvimento de API com boas práticas e organização
+→ Desenvolvimento de API
 
 ---
